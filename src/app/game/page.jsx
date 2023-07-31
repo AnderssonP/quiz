@@ -86,7 +86,7 @@ const Game = () => {
         number={3} 
         question={"Namn på låt och artist"} 
         img={"https://media.istockphoto.com/id/1175435360/sv/vektor/ikon-f%C3%B6r-musik-anteckning-vektor-illustration.jpg?s=612x612&w=0&k=20&c=h-YOpYBWd4HflSvyubeFUDhXNCgz8VUatw4eOpRZaS0="}
-        A={"A: Stairway To Heaven, Far Corporation"} B={"B: Nothing's Gonna Stop Us Now, Starship"} C={"C: Baby Can I hold you, Tracy Chapman"} answer={"A"}
+        A={"A: Stairway To Heaven, Led Zeppelin "} B={"B: Nothing's Gonna Stop Us Now, Starship"} C={"C: Baby Can I hold you, Tracy Chapman"} answer={"A"}
         countPoint={countPoint}></Card>
         <Card 
         number={4} 
