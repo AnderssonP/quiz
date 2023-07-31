@@ -146,7 +146,7 @@ const Game = () => {
         number={2} 
         question={"Vilket år kom första indiana jones?"}
         img={"https://hips.hearstapps.com/hmg-prod/images/harrison-ford-indiana-jones-649da0a102993.jpeg?crop=0.752xw:1.00xh;0.129xw,0&resize=1200:*"}
-        A={"A: 1981"} B={"B: 1988"} C={"C: 1984"} answer={"C"} 
+        A={"A: 1981"} B={"B: 1988"} C={"C: 1984"} answer={"A"} 
         countPoint={countPoint}></Card>
         <Card 
         number={3} 
